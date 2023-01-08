@@ -1,4 +1,4 @@
-# Excel Project 1: Customers' Demographics Analysis
+# Excel: Customers' Demographics Analysis
 ## Aim
 - Analyse customers' demographics (genders, income, commute distance, etc.) in relation to their decisions to buy products.
 
